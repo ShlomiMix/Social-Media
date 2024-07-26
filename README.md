@@ -1,6 +1,8 @@
-# Northwind Social Media Project
+# Social Media Project
 
-Welcome to the Northwind Social Media project! This application allows users to create posts, upload images, send friend requests, chat with each other using web-sockets, and receive push notifications.
+![Social Media](https://img.shields.io/badge/Social_Media-000000?style=for-the-badge&logo=twitter&logoColor=white)
+
+Welcome to the Social Media project! This application allows users to create posts, upload images, send friend requests, chat with each other using web-sockets, and receive push notifications.
 
 ## Features
 
@@ -33,56 +35,4 @@ Welcome to the Northwind Social Media project! This application allows users to 
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white)
 
-### Frontend Dependencies
-
-- **@emotion/react**
-- **@emotion/styled**
-- **@material-tailwind/react**
-- **@mui/icons-material**
-- **@mui/material**
-- **@mui/x-date-pickers**
-- **@reduxjs/toolkit**
-- **@testing-library/jest-dom**
-- **@testing-library/react**
-- **@testing-library/user-event**
-- **@types/jest**
-- **@types/node**
-- **@types/react**
-- **@types/react-dom**
-- **@types/react-redux**
-- **@types/react-router-dom**
-- **axios**
-- **date-fns**
-- **jwt-decode**
-- **notyf**
-- **react**
-- **react-dom**
-- **react-hook-form**
-- **react-redux**
-- **react-router-dom**
-- **react-scripts**
-- **socket.io-client**
-- **tailwindcss**
-- **typescript**
-- **web-vitals**
-- **daisyui**
-
-### Backend Dependencies
-
-- **@types/cors**
-- **@types/express**
-- **@types/express-fileupload**
-- **@types/jsonwebtoken**
-- **@types/node**
-- **cors**
-- **dotenv**
-- **express**
-- **express-fileupload**
-- **express-rate-limit**
-- **jsonwebtoken**
-- **mongoose**
-- **mongoose-autopopulate**
-- **socket.io**
-- **striptags**
-- **uploaded-file-saver**
 
